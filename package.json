@@ -13,8 +13,7 @@
       "email": "",
       "url": ""
     }
-  ],
-	  "license": "MIT",
+  ],	  "license": "MIT",
   "dependencies": {
     "backbone": "1.1.0",
     "mcap-generator-ionic": "~0.8.0",
