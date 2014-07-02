@@ -1,0 +1,12 @@
+PreCommit:
+  Rubocop:
+    enabled: false
+
+  AuthorEmail:
+    enabled: false
+
+  AuthorName:
+    enabled: false
+
+  HardTabs:
+    enabled: false
