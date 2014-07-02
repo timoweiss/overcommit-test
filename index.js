@@ -8,7 +8,7 @@
 //
 // Additionally, you can toggle specific options in the Configure
 // menu.
-b = 2
+ab = 2
 function main() {
   return 'Hello, World!';
 }
