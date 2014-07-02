@@ -9,6 +9,7 @@
 // Additionally, you can toggle specific options in the Configure
 // menu.
 function main() {
-		return 'Hello, World!';
+
+	return 'Hello, World!';
 }
 main();
